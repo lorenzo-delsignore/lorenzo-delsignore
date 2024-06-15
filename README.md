@@ -1,16 +1,18 @@
-## Hi there 👋
+## About me
+Recently graduated in Computer Science from the Sapienza University of Rome, I am passionate about artificial intelligence and its subfields. I have experience using PyTorch Lightning, Weight & Biases, and Docker.
 
-<!--
-**lorenzo-delsignore/lorenzo-delsignore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research thesis focused on Dynamic Neural Radiance Fields, enabling novel view synthesis for dynamic data. In particular, I implemented a technique which improve these fields. In my university path, I have worked on numerous projects involving 3D objects such as Point Clouds, Meshes and Implicit shapes.
 
-Here are some ideas to get you started:
+My core competencies include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 3D Modelling & Geometric Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Interpretability & Representation Learning
+
+
+[![lorenzo-delsignore GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzo-delsignore&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# Education
+- Master's degree in Computer Science (110/110 with honors), May 2024
+- Bachelor's degree in Computer Science, May 2021
